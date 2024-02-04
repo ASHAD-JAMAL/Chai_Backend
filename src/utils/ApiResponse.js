@@ -7,3 +7,4 @@ class ApiResponse {
         //server ka status code hota hai go and check on google
     }
 }
+export { ApiResponse }
